@@ -1,0 +1,15 @@
+﻿"L_R_2.exe" (Win32). Загружено "C:\Users\Артем\source\repos\L_R_2\x64\Debug\L_R_2.exe". Символы загружены.
+"L_R_2.exe" (Win32). Загружено "C:\Windows\System32\ntdll.dll". 
+"L_R_2.exe" (Win32). Загружено "C:\Windows\System32\kernel32.dll". 
+"L_R_2.exe" (Win32). Загружено "C:\Windows\System32\KernelBase.dll". 
+"L_R_2.exe" (Win32). Загружено "C:\Windows\System32\msvcp140d.dll". 
+"L_R_2.exe" (Win32). Загружено "C:\Windows\System32\vcruntime140d.dll". 
+"L_R_2.exe" (Win32). Загружено "C:\Windows\System32\vcruntime140_1d.dll". 
+"L_R_2.exe" (Win32). Загружено "C:\Windows\System32\ucrtbased.dll". 
+Поток 0xacb4 завершился с кодом 0 (0x0).
+"L_R_2.exe" (Win32). Загружено "C:\Windows\System32\kernel.appcore.dll". 
+"L_R_2.exe" (Win32). Загружено "C:\Windows\System32\msvcrt.dll". 
+"L_R_2.exe" (Win32). Загружено "C:\Windows\System32\rpcrt4.dll". 
+Поток 0xa4b4 завершился с кодом 0 (0x0).
+Поток 0x98d4 завершился с кодом 0 (0x0).
+Программа "[33752] L_R_2.exe" завершилась с кодом 0 (0x0).
