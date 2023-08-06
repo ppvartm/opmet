@@ -46,3 +46,19 @@
 - Метод внутренних штрафных функций (барьерных
 функций)
 - Метод внешних штрафных функций
+
+<!DOCTYPE html>
+<html>
+ <head>
+  <meta charset="utf-8">
+  <title>Фотографии</title>
+ </head>
+ <body>
+  <p>
+    <img src="https://github.com/ppvartm/kurs_5_sem/blob/main/documents/pred-prey%20exmpl.png" alt="Фотография 1" width="120" height="120">
+    <img src="https://github.com/ppvartm/kurs_5_sem/blob/main/documents/pred-prey%20exmpl.png" alt="Фотография 2" width="120" height="120">
+    <img src="https://github.com/ppvartm/kurs_5_sem/blob/main/documents/pred-prey%20exmpl.png" alt="Фотография 3" width="120" height="120">
+    <img src="https://github.com/ppvartm/kurs_5_sem/blob/main/documents/pred-prey%20exmpl.png" alt="Фотография 4" width="120" height="120">
+  </p>
+ </body>
+</html>
