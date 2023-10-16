@@ -1,0 +1,11 @@
+cmake_minimum_required(VERSION 3.5)
+
+project(opmet)
+
+
+add_executable(opmet file_helper.cpp file_helper.h matrix.cpp matrix.h necessary_func.cpp necessary_func.h simplex.cpp simplex.h main.cpp vec.cpp vec.h)
+
+set_target_properties(
+      opmet properties
+      CXX_STANDART 11
+      CXX_STANDART_REQUIRED ON)
